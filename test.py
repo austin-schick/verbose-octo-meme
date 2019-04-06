@@ -1,2 +1,2 @@
 print("Hack112 is awesome!")
-print("Sanjna is the git master!")
+print("Sanjna and Austin are the git masters")
